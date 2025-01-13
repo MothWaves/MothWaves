@@ -4,5 +4,5 @@ For a more in-depth introduction, you can check out my website: https://mothwave
   
 - 🇵🇹 I'm located in Portugal
 - 🔭 I’m currently working on "Rituals"
-- 🌱 I’m currently learning C++ and GUI Libraries
+- 🌱 I’m currently learning GUI Libraries
 - 📫 Send me an email at: mothwaves@outlook.com
